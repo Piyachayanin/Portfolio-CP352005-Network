@@ -63,9 +63,7 @@ These are the scores from all the Checkpoint Exams taken at the Cisco Networking
 ---
 ## Certificates
 *[CCNA-Introduction to Networks](./Certificates/CCNA-_Introduction_to_Networks_certificate_piyachayanin-t-kkumail-com_d172c9a5-0a5c-404e-ab6b-f5f5d23ae301.pdf)*
-<embed src="./Certificates/CCNA-_Introduction_to_Networks_certificate_piyachayanin-t-kkumail-com_d172c9a5-0a5c-404e-ab6b-f5f5d23ae301.pdf" type="application/pdf" width="100%" height="500px" />
 
 *[Getting Started with Cisco Packet Tracer](./Getting_Started_with_Cisco_Packet_Tracer_certificate_piyachayanin-t-kkumail-com_654f3bca-7858-49bc-87d6-2bf52b21179d.pdf)*
-<embed src="./Getting_Started_with_Cisco_Packet_Tracer_certificate_piyachayanin-t-kkumail-com_654f3bca-7858-49bc-87d6-2bf52b21179d.pdf" type="application/pdf" width="100%" height="500px" />
 
 ---
