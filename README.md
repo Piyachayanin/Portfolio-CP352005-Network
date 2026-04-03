@@ -58,7 +58,7 @@ These are the scores from all the Checkpoint Exams taken at the Cisco Networking
 | Exam | Score |
 | :--- | :---: |
 | CCNA: Introduction to Networks Course Final Exam | 98/100 |
-| **Final Exam Average** | **97/100 (97%)** |
+| **Final Exam Average** | **98/100 (98%)** |
 
 ---
 ## Certificates
