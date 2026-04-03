@@ -46,7 +46,7 @@ These are the scores from all the Checkpoint Exams taken at the Cisco Networking
 | :--- | :---: |
 | Basic Network Connectivity and Communications Exam | 100/100 |
 | Ethernet Concepts Exam | 97/100 |
-| Communicating Between Networks Exam 100/100 |
+| Communicating Between Networks Exam | 100/100 |
 | IP Addressing Exam | 100/100 |
 | Network Application Communications Exam | 94/100 |
 | Building and Securing a Small Network Exam | 100/100 |
@@ -62,8 +62,8 @@ These are the scores from all the Checkpoint Exams taken at the Cisco Networking
 
 ---
 ## Certificates
-**CCNA-Introduction to Networks**
-!(./Certificates/CCNA-_Introduction_to_Networks_certificate_piyachayanin-t-kkumail-com_d172c9a5-0a5c-404e-ab6b-f5f5d23ae301.pdf)
+![CCNA-Introduction to Networks](./Certificates/CCNA-_Introduction_to_Networks_certificate_piyachayanin-t-kkumail-com_d172c9a5-0a5c-404e-ab6b-f5f5d23ae301.pdf)
 
-**Getting Started with Cisco Packet Tracer**
-!(./Getting_Started_with_Cisco_Packet_Tracer_certificate_piyachayanin-t-kkumail-com_654f3bca-7858-49bc-87d6-2bf52b21179d.pdf)
+![Getting Started with Cisco Packet Tracer](./Getting_Started_with_Cisco_Packet_Tracer_certificate_piyachayanin-t-kkumail-com_654f3bca-7858-49bc-87d6-2bf52b21179d.pdf)
+
+---
