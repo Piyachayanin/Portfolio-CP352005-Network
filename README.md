@@ -32,9 +32,16 @@
 
 ---
 
+### Networkprogramming Week1-10
+
+**GitHub** : https://github.com/Piyachayanin/Network
+
+---
+
 ### Final Project
 
 **GitHub** : https://github.com/viphu-cs/Final-Project-Computer-Networks-68-2_Edge-AI-Smart-Warehouse-Network
+**Video** : https://youtube.com/shorts/FvXbPps7QYA?si=E_yrMPXHSUJu69KT
 
 ---
 
